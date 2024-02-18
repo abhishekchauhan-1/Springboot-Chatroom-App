@@ -25,7 +25,7 @@ To run the ChatRoom application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ChatRoom.git
+   git clone https://github.com/abhishekchauhan-1/Springboot-Chatroom-App
    ```
 
 2. Navigate to the project directory:
